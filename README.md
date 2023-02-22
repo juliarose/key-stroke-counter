@@ -1,6 +1,6 @@
 # key-stroke-counter
 
-Simple program that counts keystrokes. Most of the program is taken from <https://github.com/gsingh93/keylogger> but is modified to simply count the number of keystrokes instead of actual input.
+Simple program that counts keystrokes. Most of the program is taken from [gsingh93/keylogger](https://github.com/gsingh93/keylogger) but is modified to simply count the number of keystrokes instead of actual input.
 
 ## Installation
 
