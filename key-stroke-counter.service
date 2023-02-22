@@ -1,0 +1,8 @@
+[Unit]
+Description=key-stroke-counter
+
+[Service]
+ExecStart=/path/to/key-stroke-counter/binary -f /root/keys.log
+
+[Install]
+WantedBy=multi-user.target

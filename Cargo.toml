@@ -1,0 +1,19 @@
+[package]
+name = "key-stroke-counter"
+version = "0.1.0"
+edition = "2021"
+authors = ["Julia"]
+description = "Simple program that counts keystrokes."
+homepage = "https://github.com/juliarose/key-stroke-counter"
+repository = "https://github.com/juliarose/key-stroke-counter"
+license = "MIT"
+keywords = ["tf2", "steam"]
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+getopts = "*"
+libc = "*"
+env_logger = "*"
+log = "*"
